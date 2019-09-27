@@ -7,3 +7,7 @@ AAAAAA
 ===================
 Some new feature
 ===================
+
+==================
+Some other new features
+==================
